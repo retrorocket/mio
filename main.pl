@@ -9,8 +9,6 @@ use Mojolicious::Lite;
 use MojoX::Session::Store::Redis;
 use JSON;
 
-use String::Random;
-
 use Crypt::CBC;
 
 # hypnotoad設定

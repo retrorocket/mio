@@ -2,4 +2,4 @@ mio
 ===
 
 IIJmio Coupon Switch
-https://mio.retrorocke.biz
+https://mio.retrorocket.biz
